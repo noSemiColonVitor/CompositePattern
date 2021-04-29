@@ -1,0 +1,5 @@
+package OnlineExample;
+
+public interface Employee {
+    public void showEmployeeDetails();
+}
